@@ -23,6 +23,10 @@ Here are some important parameters of Mediapipe that we need to pay attention to
   </tr>
 </table>
 
+Detecting landmarks on objects is a crucial aspect, and the Mediapipe library has been developed to streamline this process. Specifically, Mediapipe provides an efficient solution for recognizing landmarks on objects, particularly in the case of identifying landmarks on the hand.
+
+<img title="" src=".github\media\Hand_cordinate.png" alt="" width="547" data-align="center">
+
 ## 📌Requirements
 
 Firstly, to ensure that the program can run smoothly, I recommend that you install these libraries before we begin.
